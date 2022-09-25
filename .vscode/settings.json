@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "alloc.h": "c",
+    "memory.h": "c"
+  },
+  "cSpell.words": [
+    "caml",
+    "failwith",
+    "globbing",
+    "Globlon",
+    "ONLYDIR",
+    "Wosize"
+  ]
+}

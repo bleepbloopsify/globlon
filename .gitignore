@@ -1,0 +1,5 @@
+# dune generated
+_build/
+
+# opam generated
+_opam/
