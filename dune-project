@@ -5,13 +5,13 @@
 (generate_opam_files true)
 
 (source
- (github bleepbloopisfy/globlon))
+ (github bleepbloopsify/globlon))
 
 (license MIT)
 
-(authors "bleepbloopisfy")
+(authors "bleepbloopsify" "bleepbloopsify@gmail.com")
 
-(maintainers "bleepbloopisfy")
+(maintainers "bleepbloopsify" "bleepbloopsify@gmail.com")
 
 (package
  (name globlon)
